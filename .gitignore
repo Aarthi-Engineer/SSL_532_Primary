@@ -1,0 +1,7 @@
+.metadata/
+.sonarlint/
+.settings/
+Debug/
+Release/
+*.pdom
+*.log
